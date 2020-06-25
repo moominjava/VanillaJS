@@ -1,0 +1,12 @@
+body {
+    color: aqua;
+}
+
+.form,
+.greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
