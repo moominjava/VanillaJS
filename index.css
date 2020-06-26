@@ -5,10 +5,12 @@ body {
 .form,
 .greetings {
     display: none;
+   
 }
 
 .showing {
     display: block;
+    
 }
 
 @keyframes fadeIn {
